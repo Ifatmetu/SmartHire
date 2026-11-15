@@ -6,6 +6,10 @@ SmartHire is a job marketplace platform for job seekers, recruiters, and adminis
 
 Initial repository setup. Application source files will be added in later commits.
 
+## Local Development
+
+Install dependencies with `npm install` and start the development server with `npm run dev`.
+
 ## Planned Modules
 
 - Authentication and user roles
